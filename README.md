@@ -123,5 +123,4 @@ import './index.html'
 Create ```.gitignore``` and write `node_modules`
 
 ### Now you are ready to go!
-Run `npm run dev`import './styles.css'
-import './index.html'
+Run `npm run dev`import
