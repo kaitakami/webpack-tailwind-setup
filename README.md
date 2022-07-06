@@ -108,14 +108,14 @@ Inside the src folder add:
 - index.html // template
 - styles.css
 Paste
-```
+``` css
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 ```
 - index.js
 In the index.js import `index.html` and `styles.css`
-```
+```js
 import './styles.css'
 import './index.html'
 ```
