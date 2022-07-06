@@ -123,4 +123,4 @@ import './index.html'
 Create ```.gitignore``` and write `node_modules`
 
 ### Now you are ready to go!
-Run `npm run dev`import
+Run `npm run dev`
